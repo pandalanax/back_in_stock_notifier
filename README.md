@@ -7,4 +7,3 @@ Then edit what html id's or classes to search for.
 
 Fill in emails and enable smtp in Google settings.
 
-Alternatively check out telepot-template if you want to get notified via Telegram rather than via email.
